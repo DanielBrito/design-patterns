@@ -41,4 +41,5 @@ These experiments cover the application of different design patterns in real wor
 ## :card_file_box: Resources
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns)
+- [Patterns.dev](https://www.patterns.dev/)
 
