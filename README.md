@@ -1,7 +1,5 @@
 # ✅ Design Patterns Studies
 
-# :chart_with_upwards_trend: Performance Studies
-
 These experiments cover the application of different design patterns in real world applications from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## :bookmark_tabs: Topics
